@@ -1,0 +1,11 @@
+build/
+dist/
+.venv/
+__pycache__/
+api/raw/
+api/lua/
+*.bak
+*.bak[0-9]*
+.work/
+.haxelib/
+*.hxgmod-old/

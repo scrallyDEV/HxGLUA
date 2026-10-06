@@ -1,0 +1,7 @@
+{
+  "name": "hxgmod",
+  "version": "0.3.0",
+  "classPath": "src",
+  "description": "Haxe bindings and tooling for Garry's Mod GLua",
+  "dependencies": {}
+}

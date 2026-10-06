@@ -1,0 +1,12 @@
+{
+  "repository": "luttje/glua-api-snippets",
+  "tag": "2026-09-28_17-43-07",
+  "json": {
+    "asset": "2026-09-28_17-43-07.json.zip",
+    "digest": "sha256:76f5566459616cc3ebc04633e16609c66a0813deb90b10303f8a9544956bc9fb"
+  },
+  "lua": {
+    "asset": "2026-09-28_17-43-07.lua.zip",
+    "digest": "sha256:11ae120c3301e9ca04c8eeadb41a50fc0c71c0f0a5413d1fce69605c7020b29f"
+  }
+}

@@ -1,0 +1,3 @@
+-cp generator
+-main GeneratorMain
+--interp

@@ -1,0 +1,10 @@
+-lib hxgmod
+-cp src
+-main client.ClientMain
+--lua build/client/hxgmod_client.lua
+-D lua-ver=5.1
+-D luajit
+-D lua-vanilla
+--dce full
+-D gmod_realm_strict
+-D gmod_client

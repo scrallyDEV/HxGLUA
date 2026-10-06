@@ -1,0 +1,10 @@
+-lib hxgmod
+-cp src
+-main server.ServerMain
+--lua build/server/hxgmod_server.lua
+-D lua-ver=5.1
+-D luajit
+-D lua-vanilla
+--dce full
+-D gmod_realm_strict
+-D gmod_server

@@ -1,0 +1,12 @@
+{
+  "project_type": "addon",
+  "name": "hxgmod_learning",
+  "install_path": "",
+  "entities": {
+    "hx_learning_entity": "shared.LearningEntity",
+    "hx_learning_bot": "shared.LearningNextBot"
+  },
+  "weapons": {
+    "weapon_hx_learning": "shared.LearningWeapon"
+  }
+}
